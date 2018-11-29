@@ -1,0 +1,138 @@
+h1 {
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 150%;
+  background-color: #14264B;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-width: 8px;
+  width: 15%;
+  color: #B79B67;
+  margin: 30px auto;
+}
+
+html {
+  height: 10%;
+}
+
+.god-container {
+  position: absolute;
+  left: 35%;
+  width: 30%;
+  height: 100%;
+}
+
+.left-margin {
+  position: absolute;
+  left: 0;
+  width: 35%;
+  height: 100%;
+  background-color: #14264B;
+}
+
+.right-margin {
+  position: absolute;
+  right: 0;
+  width: 35%;
+  height: 100%;
+  background-color: #14264B;
+}
+
+.top-container {
+  text-align: center;
+  background-color: #CC2C29;
+  padding: 50px 0;
+  color: #E3E4E4;
+}
+
+.mid-container {
+  background-color: #F8F8F8;
+  padding: 25px 25px;
+  color: #14264B;
+}
+
+.bot-container {
+ text-align: center;
+ background-color: #CC2C29;
+ color: #E3E4E4;
+ padding: 15px 0;
+}
+
+.chelada-img-l1 {
+  height: 42%;
+  position: absolute;
+  left: 29%;
+}
+
+.chelada-img-l2 {
+  height: 42%;
+  position: absolute;
+  left: 29%;
+  top: 41.5%;
+}
+
+.chelada-img-l3 {
+  height: 42%;
+  position: absolute;
+  left: 29%;
+  top: 83%;
+}
+
+.chelada-img-l4 {
+  height: 42%;
+  position: absolute;
+  left: 29%;
+  top: 124.5%;
+}
+
+.chelada-img-l5 {
+  height: 42%;
+  position: absolute;
+  left: 29%;
+  top:166.5%;
+}
+
+.susp-img-left {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  float: left;
+  margin: 5px;
+}
+
+.susp-img-right {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  float: right;
+  margin: 5px;
+}
+
+.suspect {
+  text-align: center;
+  line-height: 1.5
+}
+
+.suspect-header {
+  margin: 20px 0;
+}
+
+.footer-link {
+  margin: 10px 40px;
+}
+
+.footer-link:hover {
+  color: #B79B67;
+}
